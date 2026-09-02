@@ -1,6 +1,6 @@
 # Pookalam — Code a Pookalam
-
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-isxw5xug)
+host link:
+(https://generative-pookalam-gtr8.bolt.host)
 
 A creative-coding playground that generates unique, Kerala-inspired **Pookalams** (floral rangoli / Onam flower carpets) entirely through code. Every design is deterministic from a numeric seed — the same seed always produces the same Pookalam, so designs are shareable and reproducible.
 
